@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://arischifman.github.io/sitemap.xml
+Sitemap: https://arigschifman.github.io/sitemap.xml
