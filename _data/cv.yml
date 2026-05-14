@@ -3,7 +3,6 @@ cv:
   label: Sign Language Linguistics PhD Student
   email: arischifman@my.utexas.edu
   location: Austin, TX
-  image: ""
   summary: Second-year PhD student studying the linguistics of sign languages. Interested in modality, language contact, sign language historical linguistics, and psycholinguistics.
 
   social_networks:
@@ -92,17 +91,13 @@ cv:
         location: Castleton, Vermont, United States
         start_date: 2024-08-01
         end_date: 2015-08-07
-
-
+        
     Awards:
       - title: Undergraduate Research Opportunities Program: How Emotions Shape Children's Judgements of Fairness
         authors:
           - Dr. Peter Blake. 
         date: Summer 2024 
-
-
-
-    
+        
     Languages:
       - name: English
         summary: "Native speaker"
